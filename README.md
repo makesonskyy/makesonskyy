@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет, я начинающий QA Engineer! 🚀
 
-<!--
-**makesonskyy/makesonskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Обо мне:
+- 🎓 Учусь на инженера, развиваю системное мышление и логику.
+- 🎯 Цель: за 3 месяца плотно освоить Manual QA и ворваться на позицию стажера/джуна.
+- 💻 Сейчас активно изучаю теорию тестирования, тест-дизайн и базы данных (SQL).
 
-Here are some ideas to get you started:
+### 📚 Мой стек и инструменты (в процессе освоения):
+- **Теория:** Тест-кейсы, чек-листы, баг-репорты.
+- **Техническая база:** DevTools, Postman (API), SQL (запросы SELECT/JOIN).
+- **Автоматизация (планы):** Python, Selenium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Как со мной связаться:
+- Telegram: [@Soup_maktav1sh]
